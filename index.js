@@ -45,6 +45,7 @@ app.get('/delete', (req, res) => {
 })
 app.get('/update', (req, res) => {
     res.send('select')
+   
 })
 app.get('/select', (req, res) => {
     res.send('select')
